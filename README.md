@@ -6,8 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashab-khan-73a3132ab/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Ashab-Khan)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3bb10264-8277-4600-b7e7-e3eda4512165/deploy-status)](https://app.netlify.com/projects/spectacular-kheer-c0b268/deploys)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3bb10264-8277-4600-b7e7-e3eda4512165/deploy-status)](https://ashab-ali-khan.netlify.app/)
 ---
 
 ## About This Project
